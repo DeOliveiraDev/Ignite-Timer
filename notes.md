@@ -32,3 +32,6 @@ npm i @hook/resolvers
 
 npm i zod
 
+## useEffect
+
+Se você usar o useEffect muitas vezes para atualizar estados no react de forma sincrona, você pode estar usando o useEffect de forma errada.
